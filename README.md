@@ -14,3 +14,10 @@ This solution is simple console app which focuses on having clean, decoupled and
 This solution can easily be transformed to WebAPI as well.
 
 tests are written for every method in this solution. (TDD was followed for this)
+
+
+# To run this
+
+Download the source code and set Tariff_Comparison_Verivox as a startup project and run.
+
+No databse and UI is used in this solution.
